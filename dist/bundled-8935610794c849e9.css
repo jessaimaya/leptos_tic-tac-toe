@@ -1,0 +1,100 @@
+body {
+  min-width:100vw;
+  min-height: 100vh;
+  background: var(--color-gray-1);
+}
+.app-ee52 {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  justify-content: center;
+  align-content: center;
+}
+
+
+
+
+.large-22a3 {
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-large);
+}
+.medium-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-medium);
+}
+.small-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-small);
+}
+.xsmall-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-xsmall);
+}
+
+.layout-cb17 {
+  width:100%;
+  max-width: 460px;
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  flex-direction: column;
+  align-content: center;
+}
+
+
+.menu-1655 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.row_tokens-1655 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.row_tokens-1655 img:first-child {
+    margin-right: var(--space-10)
+}
+.row_pick-1655 {
+    background: var(--color-gray-2);
+    border-radius: var(--radius-15);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: var(--space-10);
+    margin: var(--space-40) 0;
+    text-align: center;
+}
+.title-1655 {
+    color:var(--color-light-2);
+}
+.subtitle-1655 {
+    color:var(--color-light-1);
+}
+.players_wrapper-1655 {
+    width:100%;
+    min-height: 72px;
+    padding: var(--space-10);
+    box-sizing: border-box;
+    background-color: var(--color-gray-1);
+    border-radius: var(--radius-15);
+}
+.row_options-1655 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn_cpu-1655 {
+    border-radius: 20px;
+    color: #A8BFC9;
+    background-color: #CC8B13;
+}
+.btn_player-1655 {
+    border-radius: 20px;
+    color: #DBE8ED;
+    background-color: #CC8B13;
+}

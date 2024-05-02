@@ -1,0 +1,20 @@
+.large {
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-large);
+}
+.medium{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-medium);
+}
+.small{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-small);
+}
+.xsmall{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-xsmall);
+}

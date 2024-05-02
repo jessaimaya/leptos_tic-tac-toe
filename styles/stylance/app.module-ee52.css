@@ -1,0 +1,12 @@
+body {
+  min-width:100vw;
+  min-height: 100vh;
+  background: var(--color-gray-1);
+}
+.app-ee52 {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  justify-content: center;
+  align-content: center;
+}

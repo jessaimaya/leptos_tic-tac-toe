@@ -1,0 +1,56 @@
+/*
+    Based on tokens.css - g.argyrousis
+ */
+
+:root {
+    /* Core units
+    =============================================================== */
+    --base-unit: 1rem;
+    --base-half-unit: calc(var(--base-unit) /2 );
+    /* Typography
+    =============================================================== */
+    --font-family-primary: "Outfit", sans-serif;
+    --font-family-secondary: serif;
+    --font-base-unit: var(--base-unit);
+    /* Font sizes
+    =============================================================== */
+    --font-size-large: calc(var(--font-base-unit) * 2.5);
+    --font-size-medium: calc(var(--font-base-unit) * 1.5);
+    --font-size-small: calc(var(--font-base-unit) * 1.25);
+    --font-size-xsmall: calc(var(--font-base-unit));
+    --font-size-xxsmall: calc(var(--font-base-unit) * 0.875);
+    /* Weights
+    =============================================================== */
+    --font-weight-normal: 500;
+    --font-weight-bold: 700;
+    /* Space
+    =============================================================== */
+    --space-base-unit: var(--base-unit);
+    --space-10: calc(var(--space-base-unit) * 0.625);
+    --space-20: calc(var(--space-base-unit) * 1.25);
+    --space-40: calc(var(--space-base-unit) * 2.5);
+    /* Radius
+    =============================================================== */
+    --radius-base-unit: var(--base-unit);
+    --radius-10: calc(var(--radius-base-unit) * 0.625);
+    --radius-15: calc(var(--radius-base-unit) * 0.94);
+
+    /* Breakpoints
+    =============================================================== */
+    --breakpoint-small: 375px;
+    --breakpoint-medium: 768px;
+    --breakpoint-large: 1440px;
+    /* Colors
+    =============================================================== */
+    --color-primary: #31C3BD;
+    --color-primary-shadow: #118C87;
+    --color-primary-light: #65E9E4;
+    --color-secondary: #F2B137;
+    --color-secondary-shadow: #CC8B13;
+    --color-secondary-light: #FFC860;
+    --color-gray-1: #1A2A33;
+    --color-gray-2: #1F3641;
+    --color-light-1: #A8BFC9;
+    --color-light-shadow: #6B8997;
+    --color-light-2: #DBE8ED;
+}

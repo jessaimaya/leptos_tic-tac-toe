@@ -1,0 +1,20 @@
+.large-22a3 {
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-large);
+}
+.medium-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-medium);
+}
+.small-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-small);
+}
+.xsmall-22a3{
+    font-family: var(--font-family-primary), serif;
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-xsmall);
+}
